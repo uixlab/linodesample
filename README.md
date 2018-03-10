@@ -1,20 +1,8 @@
-# linodesample
+# linode-guide-sample
 Outline for a guide on How to build and configure Nginx with Naxsi from source on Ubuntu 16.04.
 
 
----
-author:
-  name: Linode
-  email: docs@linode.com
-description: 'Compile NGINX to use the PageSpeed module.'
-keywords: ["nginx","naxsi","security"]
-license: '[CC BY-ND 4.0](http://creativecommons.org/licenses/by-nd/4.0)'
-published:  n/a
-modified: 2018-03-10
-modified_by:
-  name: Linode
-title: 'How to build and configure Nginx with Naxsi from source on Ubuntu 16.04.'
----
+
 
 ### Outline for a guide on How to build and configure Nginx with Naxsi from source on Ubuntu 16.04.
 #### Steps 
@@ -26,7 +14,7 @@ title: 'How to build and configure Nginx with Naxsi from source on Ubuntu 16.04.
 - create a systemd service to control nginx
 - configure and secure nginx with naxsi
 
-
+# How to build and configure Nginx with Naxsi from source on Ubuntu 16.04.
 ## Introduction
 
 NGINX is a free, open-source, high-performance HTTP server and reverse proxy, as well as an IMAP/POP3 proxy server. NGINX is known for its high performance, stability, rich feature set, simple configuration, and low resource consumption.
